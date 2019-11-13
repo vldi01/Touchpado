@@ -1,0 +1,18 @@
+#!/bin/bash
+
+names=`cat /proc/bus/input/devices | egrep 'N: |H: '`
+
+SAVEIFS=$IFS   # Save current IFS
+IFS=$'\n'      # Change IFS to new line
+names=($names) # split to array $names
+IFS=$SAVEIFS   # Restore IFS
+
+for (( i=0; i<${#names[@]}; i++ ))
+do
+    if [ "${names[i]}" = "N: Name=\"ELAN1010:00 04F3:3012 Touchpad\"" ]; then
+    	echo ${names[i+1]} | cut -d' ' -f3
+    	break
+    fi
+done
+
+#xinput list --id-only 'ELAN1010:00 04F3:3012 Touchpad'

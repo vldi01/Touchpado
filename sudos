@@ -1,0 +1,4 @@
+#!/bin/bash
+
+chown root:root /home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/TouchpadoC__
+chmod +s /home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/TouchpadoC__

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TouchpadoC__"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TouchpadoC__">
+				<Option output="/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/TouchpadoC__" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 TouchpadoC__"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TouchpadoC__/fast">
+				<Option output="/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/TouchpadoC__" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 TouchpadoC__/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/vlad/Programs/2works/CLion/TouchpadoC++/EventBuster.cpp">
+			<Option target="TouchpadoC__"/>
+		</Unit>
+		<Unit filename="/home/vlad/Programs/2works/CLion/TouchpadoC++/Fingers.cpp">
+			<Option target="TouchpadoC__"/>
+		</Unit>
+		<Unit filename="/home/vlad/Programs/2works/CLion/TouchpadoC++/FourFingers.cpp">
+			<Option target="TouchpadoC__"/>
+		</Unit>
+		<Unit filename="/home/vlad/Programs/2works/CLion/TouchpadoC++/Func.cpp">
+			<Option target="TouchpadoC__"/>
+		</Unit>
+		<Unit filename="/home/vlad/Programs/2works/CLion/TouchpadoC++/ThreeFingers.cpp">
+			<Option target="TouchpadoC__"/>
+		</Unit>
+		<Unit filename="/home/vlad/Programs/2works/CLion/TouchpadoC++/TwoFingers.cpp">
+			<Option target="TouchpadoC__"/>
+		</Unit>
+		<Unit filename="/home/vlad/Programs/2works/CLion/TouchpadoC++/VirtDevice.cpp">
+			<Option target="TouchpadoC__"/>
+		</Unit>
+		<Unit filename="/home/vlad/Programs/2works/CLion/TouchpadoC++/main.cpp">
+			<Option target="TouchpadoC__"/>
+		</Unit>
+		<Unit filename="/home/vlad/Programs/2works/CLion/TouchpadoC++/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

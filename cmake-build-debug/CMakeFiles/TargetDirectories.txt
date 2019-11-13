@@ -1,0 +1,3 @@
+/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/CMakeFiles/TouchpadoC__.dir
+/home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug/CMakeFiles/edit_cache.dir

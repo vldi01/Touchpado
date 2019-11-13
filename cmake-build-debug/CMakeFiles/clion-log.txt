@@ -1,0 +1,4 @@
+/home/vlad/Programs/Clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/vlad/Programs/2works/CLion/TouchpadoC++
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/vlad/Programs/2works/CLion/TouchpadoC++/cmake-build-debug
